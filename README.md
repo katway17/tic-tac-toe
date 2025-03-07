@@ -18,11 +18,11 @@ A simple Tic Tac Toe game built with React. Players can take turns to mark their
    ```bash
    git clone https://github.com/katway17/tic-tac-toe.git
 
-2. cd tic-tac-toe
+2. ```bash cd tic-tac-toe
 
-3. npm install
+4. ```bash npm install
 
-4. npm run dev
+5. ```bash npm run dev
 
 Open your browser and go to http://localhost:3000 to play the game.
  
