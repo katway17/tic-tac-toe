@@ -1,6 +1,6 @@
 # Tic Tac Toe Game
 
-A simple Tic Tac Toe game built with React. Players can take turns to mark their squares, and the game determines the winner or if there’s a tie.
+A simple Tic Tac Toe game built with React and Vite! Players can take turns to mark their squares, and the game determines the winner or if there’s a tie.
 
 ## Live Demo  
 https://tic-tac-toe-git-main-kathleen-waymans-projects.vercel.app/
